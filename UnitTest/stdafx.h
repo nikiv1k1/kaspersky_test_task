@@ -1,0 +1,15 @@
+// stdafx.h: включаемый файл для стандартных системных включаемых файлов,
+// или включаемых файлов для конкретного проекта, которые часто используются, но
+// не часто изменяются
+//
+
+#pragma once
+
+#include "targetver.h"
+
+// Заголовки CppUnitTest
+#include "CppUnitTest.h"
+
+#include <Windows.h>
+#include <iostream>
+#include <string>
